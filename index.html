@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <header class="container-fluid text-center text-white bg-dark p-2">
+        <h1>Weather Report</h1>
+    </header>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-3 bg-dark">
+                <h5 class="mt-1 text-white">Search for a City:</h5>
+                <div class="input-group mb-3">
+                    <input id="enterCity" type="text" class="formControl" placeholder="Enter City" aria-label="Enter City">
+                    <div class="inputGroup-append">
+                        <button class="btn btn-primary" type="button" id="searchButton"> Search</button>
+                    </div>
+                </div>
+                <button class="btn btn-primary mb-3" type="button" id="clearHistory">Clear history</button>
+                <form id="history"></form>
+            </div>
+    </div>
+</body>
+</html>
