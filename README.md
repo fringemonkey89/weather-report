@@ -45,7 +45,7 @@ A web application that allows users to search for a city to get the current weat
 -Bootstrap
 
 ## Website Link
-   https://fringemonkey89.github.io/Work-Day-Scheduler/
+https://fringemonkey89.github.io/weather-report/
 
 ## License
  MIT License
