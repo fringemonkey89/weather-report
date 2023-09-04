@@ -24,17 +24,30 @@ A web application that allows users to search for a city to get the current weat
 
 ## Usage
 
-    Weather Report allows users to search for a city in order to get the current weather and 5 day forecast.
-    It will display the the city name, the date, an icon representation of weather conditions, the temperature, the humidity and the wind speed.
-    Comes with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity.
-    Search history will be saved in local storage.
-    Weather Report app is mobile compatible.
+- Weather Report allows users to search for a city in order to get the current weather and 5 day forecast.
+- It will display the the city name, the date, an icon representation of weather conditions, the temperature, the humidity and the wind speed.
+- Comes with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity.
+- Search history will be saved in local storage.
+- Weather Report app is mobile compatible.
 
 ## Screenshot
+![](./Assets/weather.png)
 
-## Technologies Use
+## Installation
+   N/A
 
-OpenWeather API
+## Credits
+   N/A
 
-Bootstrap
+## Technologies Used
+
+-OpenWeather API
+-Bootstrap
+
+## Website Link
+   https://fringemonkey89.github.io/Work-Day-Scheduler/
+
+## License
+ MIT License
+
 
